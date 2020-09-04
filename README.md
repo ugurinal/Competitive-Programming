@@ -1,3 +1,2 @@
-#Competitive Programming
-
-Repository for competitive programming
+# Competitive Programming
+Reporsitory for competitive programming
