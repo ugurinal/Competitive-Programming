@@ -41,6 +41,7 @@ namespace Test2
         private static void Main(string[] args)
         {
             Derived derived = new Derived("first", "last");
+
             derived.PrintFullName();
             ((Base)derived).PrintFullName();
 
