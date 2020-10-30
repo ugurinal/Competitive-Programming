@@ -2,7 +2,7 @@
 
 namespace Polymorphism
 {
-    /* polymorphism is basically enables you to invoke derived class method
+    /* polymorphism is basically enables you to invoke derived class methods
      * through base class referance variables at runtime*/
 
     public class Base
