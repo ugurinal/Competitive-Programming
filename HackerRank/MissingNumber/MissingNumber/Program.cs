@@ -93,23 +93,23 @@ namespace MissingNumber
             }
             Console.WriteLine(result + "\n" + "\n");
 
-            List<int> temp2 = new List<int>();
+            temp.Clear();
 
-            temp2.Add(10);
-            temp2.Add(8);
-            temp2.Add(9);
-            temp2.Add(6);
-            temp2.Add(7);
-            temp2.Add(4);
-            temp2.Add(5);
-            //temp2.Add(2);
-            temp2.Add(3);
-            temp2.Add(1);
-            temp2.Add(0);
+            temp.Add(10);
+            temp.Add(8);
+            temp.Add(9);
+            temp.Add(6);
+            temp.Add(7);
+            temp.Add(4);
+            temp.Add(5);
+            //temp.Add(2);
+            temp.Add(3);
+            temp.Add(1);
+            temp.Add(0);
 
-            int result2 = Finder.FindMissingNumberTwo(temp2);
+            int result2 = Finder.FindMissingNumberTwo(temp);
 
-            foreach (int x in temp2)
+            foreach (int x in temp)
             {
                 Console.WriteLine(x);
             }
