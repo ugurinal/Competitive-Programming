@@ -1,0 +1,13 @@
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.exe
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.deps.json
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.runtimeconfig.json
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.runtimeconfig.dev.json
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.dll
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\bin\Debug\netcoreapp3.1\Triangles.pdb
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.csprojAssemblyReference.cache
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.AssemblyInfoInputs.cache
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.AssemblyInfo.cs
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.csproj.CoreCompileInputs.cache
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.dll
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.pdb
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Triangles\Triangles\obj\Debug\netcoreapp3.1\Triangles.genruntimeconfig.cache
