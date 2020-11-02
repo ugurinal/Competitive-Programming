@@ -1,0 +1,12 @@
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\Random\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
