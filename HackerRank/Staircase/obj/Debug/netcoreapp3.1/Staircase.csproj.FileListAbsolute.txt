@@ -1,0 +1,12 @@
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\bin\Debug\netcoreapp3.1\Staircase.exe
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\bin\Debug\netcoreapp3.1\Staircase.deps.json
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\bin\Debug\netcoreapp3.1\Staircase.runtimeconfig.json
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\bin\Debug\netcoreapp3.1\Staircase.runtimeconfig.dev.json
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\bin\Debug\netcoreapp3.1\Staircase.dll
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\bin\Debug\netcoreapp3.1\Staircase.pdb
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\obj\Debug\netcoreapp3.1\Staircase.AssemblyInfoInputs.cache
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\obj\Debug\netcoreapp3.1\Staircase.AssemblyInfo.cs
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\obj\Debug\netcoreapp3.1\Staircase.csproj.CoreCompileInputs.cache
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\obj\Debug\netcoreapp3.1\Staircase.dll
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\obj\Debug\netcoreapp3.1\Staircase.pdb
+C:\Users\UGURINAL\Documents\GitHub\Competitive-Programming\HackerRank\Staircase\obj\Debug\netcoreapp3.1\Staircase.genruntimeconfig.cache
