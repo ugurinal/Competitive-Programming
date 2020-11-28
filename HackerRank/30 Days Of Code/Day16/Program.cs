@@ -13,8 +13,10 @@ namespace Day16
                 int num = int.Parse(S);
                 Console.WriteLine(num);
             }
-            catch
+            catch (Exception e)
             {
+                //Console.WriteLine(e.Message);
+
                 Console.WriteLine("Bad String");
             }
         }
