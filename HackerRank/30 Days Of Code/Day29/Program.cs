@@ -20,7 +20,7 @@ namespace Day29
 
                 for (int i = 1; i < n; i++)
                 {
-                    for (int j = i; j <= n; j++)
+                    for (int j = i + 1; j <= n; j++)
                     {
                         int temp = i & j;
                         if (temp > max && temp < k)
